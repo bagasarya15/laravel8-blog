@@ -1,0 +1,9 @@
+Post::create([
+    'title' => 'Judul Ke Satu',
+    'category_id' => 2,
+    'slug' => 'judul-ke-satu',
+    'excerpt' => 'lorem1',
+    'body' => 'lorem2',
+    'cat_img' => 'Frame1.jpg',
+    'src' => 'Noname'
+])
